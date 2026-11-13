@@ -1,8 +1,0 @@
-# scikit-learn and imbalanced-learn are pinned because the saved model (models/best_model.pickle)
-# was created with these exact versions. Needs Python 3.12 or newer.
-scikit-learn==1.9.1
-imbalanced-learn==0.14.2
-flask>=3.0
-nltk>=3.9
-numpy>=2.0
-pandas>=2.0
