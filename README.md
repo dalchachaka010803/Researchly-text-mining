@@ -54,7 +54,7 @@ GitHub shows HTML files as code. Download outputs/lda_intertopic_distance_map.ht
 
 ## Documentation
 
-[docs/Project_Documentation.md](docs/Project_Documentation.md) explains the methods, results and figures for every question, with Harvard references.
+[docs/Project_Documentation.pdf](docs/Project_Documentation.pdf) explains the methods, results and figures for every question, with references. GitHub shows the PDF in the browser. [docs/Project_Documentation.md](docs/Project_Documentation.md) holds the same text as a web page.
 
 ## Reference
 
